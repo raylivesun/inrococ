@@ -1,0 +1,72 @@
+#!/usr/bin/env Rscript
+# awdocbye.R
+# awdocbye.R is a script to generate a document with the bye function
+
+#' @title awdocbye
+#' @description This function generates a document with the bye function
+#' @param x A character vector
+#' @param y A character vector
+#' @param z A character vector
+#' @param a A character vector
+#' @param b A character vector
+#' @param c A character vector
+#' @param d A character vector
+#' @param e A character vector
+#' @param f A character vector
+#' @param g A character vector
+#' @param h A character vector
+#' @param i A character vector
+#' @param j A character vector
+#' @param k A character vector
+#' @param l A character vector
+#' @param m A character vector
+#' @param n A character vector
+#' @param o A character vector
+#' @param p A character vector
+#' @param q A character vector
+#' @param r A character vector
+#' @param s A character vector
+#' @param t A character vector
+#' @param u A character vector
+#' @param v A character vector
+#' @param w A character vector
+#' @param x A character vector
+#' @param y A character vector
+#' @param z A character vector
+#' @param a A character vector
+#' @param b A character vector
+#' @param c A character vector
+#' @param d A character vector
+#' @param e A character vector
+#' @param f A character vector
+#' @param g A character vector
+#' @param h A character vector
+#' @param i A character vector
+#' @param j A character vector
+#' @param k A character vector
+#' @param l A character vector
+#' @param m A character vector
+#' @param n A character vector
+#' @param o A character vector
+#' @param p A character vector
+#' @param q A character vector
+#' @param r A character vector
+#' @param s A character vector
+#' @param t A character vector
+#' @param u A character vector
+#' @param v A character vector
+#' @param w A character vector
+#' @param x A character vector
+#' @param y A character vector
+#' @param z A character vector
+
+time <- Sys.time()
+
+#' @return A character vector
+#' @export
+#' @examples
+
+name <- "awdocbye"
+#' @examples
+#' awdocbye("Hello", "World", "This", "is",
+#' "a", "test", "of", "the", "bye", "function")
