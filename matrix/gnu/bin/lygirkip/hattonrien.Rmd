@@ -1,0 +1,54 @@
+---
+title: "Coffee Script"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+We offer a variety of roles and are always expanding. 
+
+STAFF
+
+@诶 | Owner 乂 — Server Owner
+
+@⚔️ Administrator  — Server Administrators
+
+@⚔️ Moderator  — Server Moderators
+
+@⚔️ Trial Mod  — New Moderators in Training
+
+@⚔️ Staff  - Staff Members
+
+---
+
+Earnable Roles
+
+@Booster (Server Booster) — Thank you for boosting! Check perks in ⁠🔮・boost 
+
+@Elite (LVL 50) — +3 Giveaway entries
+
+@Expert (LVL 25) — +2 Giveaway entries, can add reactions
+
+@Advanced (LVL 15) — +1 Giveaway entry, can change nickname
+
+@Intermediate (LVL 10) — Can stream in VC and post images in ⁠💬・general 
+
+@Beginner (LVL 5) — Can use external emojis and embeds
+
+@Giveaway Winner — Awarded to giveaway winners
+
+@Giveaway Banned — Assigned if giveaway rules are not followed
+
+Want VIP perks? See ⁠💰・buy-roles 
+
+---
+
+Other Roles
+
+@Bots — For all our helpful bots
+
+@Member — Standard role for all users
+
+@Verified — Verified members
+
+@Unverified — Unverified users (verify in ⁠No Access )

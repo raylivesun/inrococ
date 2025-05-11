@@ -1,0 +1,31 @@
+---
+title: "Need's to Security of Humanity"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+@Cosmos
+
+🛡️ Worker Name: Skybreaker Sentinel
+👤 Worker Appearance:
+A heavily armored, steampunk-inspired security automaton infused with anti-air tech. Think of a fusion between a royal guard, a weathered clockwork knight, and a floating sentry.
+
+Body: Brass-and-steel armored plating with glowing vents on the shoulders and back. Slightly bulky silhouette with piston-powered limbs.
+
+Helmet: Dome-shaped visor with glowing red optics and a built-in radar dish on one side.
+
+Back Attachment: A jet-propulsion unit with mechanical wings that flap slowly when idle, allowing short hover bursts.
+
+Gauntlets: Electrified knuckle bracers for melee takedowns.
+
+Feet: Magnetic boots with gyroscopic stabilizers to avoid getting swept by aerial attacks.
+
+Details: Gear emblems, warning stripes, exhaust vents, rotating parts, antennae, and a retractable security baton.
+
+✨ Ability:
+“Aerial Lockdown” – Periodically, the Skybreaker scans the air and launches a guided EMP net that disables flying pirate mounts and sends them crashing down. Nearby pirates become stunned for 2 seconds on impact. Cooldown: 15 seconds.
+
+Passive: Skybreaker automatically targets airborne threats with mini flak bursts that deal minor damage and draw aggro.
+
+Bonus: If multiple Skybreakers are deployed, their EMP nets sync to chain-stun pirates mid-air.

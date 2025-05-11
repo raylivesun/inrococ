@@ -1,0 +1,35 @@
+---
+title: "Thems Analysis and Theorems in Network"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+@📰｜Changelog 
+
+:ping~1:  Updated ⁠📡｜network
+⠀
+Updates:
+Removed a lot of useless configurations, as they were windows default settings
+Removed settings, which were incorrect
+Added more adapter settings
+Fixed speed & duplex part
+Replaced netsh cmds with powershell ones, removed useless ones & added new cmds
+
+Updated overview:
+Removes components
+Removes addons
+Network settings
+Disables IPv6
+Disables NetBIOS over TCP/IP
+Look into the code for more
+Adapter Settings
+Disables power savings
+Disables offloads
+Enables/disables other features
+Sets speed & duplex to the highest full duplex
+NetAdapter & NetTCPIP Cmds 
+Sets TCP settings
+Disables adapter power management
+Disables lso, uso, rsc and more
+Read trough the file for further details

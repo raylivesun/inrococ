@@ -1,0 +1,29 @@
+---
+title: "IDE Python Script"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+Added:
+
+Yokoffing
+Hosts compatible -> No
+The respo has a lot of additional information.
+Privacy Essentials (~1.000) - Advanced hardening, includes click2load. Can cause login issues.
+Click2load (47) - "Turns many third-party audio and video players into click-to-load placeholders which only load once a user clicks on it." ~ official description
+Third-Party Fonts (70) - Blocks fonts from third-party domains
+Annoyances (1.000)
+YouTube Clear View (17) - Cleans up some of the clutter
+
+Iam-py-test
+Hosts compatible -> Partly
+Malware (~38.000) - hosts format compatible
+Brave Clean-Up (~11.000) - Removes malicious websites from the search results (not compatible)
+DuckDuckGo Clean-Up (~45.000) - Same as above, but for DDG
+uBlock Combo (~150.000) - Compiled out of other filterlists to block malware, scams, phishing, and remove tracking (not compatible)
+VXVault Domains (60) - New malware domains created by VXVault (compatible)
+
+to ⁠🔒｜blocklists.
+
+If anyone's wondering why ⁠┏＞fortnite was updated, I added some additional settings to option 1. 

@@ -1,0 +1,24 @@
+---
+title: "Feedback Script Messages Chat"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+@📰｜Changelog 
+
+Fortnite Tool Update - ⁠┏＞fortnite
+Updates:
+Game settings improvements
+Debloat revamped
+Let's you choose, if you want to remove high resolution textures
+Added more
+Improved start screen
+All NVIDIA profiles have been updated to the latest version
+Waiting times reduced / added log function
+
+Additions:
+New 'Auto Launcher Termination' option
+Creates a shortcut that starts fortnite and terminates the launcher automatically
+
+⁠📨｜feedback is appreciated!

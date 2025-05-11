@@ -1,0 +1,19 @@
+---
+title: "Cookies Pastel And Mono the Tap's"
+author: "admin"
+date: "2025-05-11"
+output: html_document
+---
+
+Our support bot may have some downtime, as we upgrade the system.
+
+
+⚙️ when, where, why
+Starting downtime: 3/23/2025 12AM
+Estimated duration: 2 hours
+Location of downtime: support bot, discord
+Reason of downtime: upgrading
+
+✅ upgrade complete
+No downtime recorded
+Fully Upgraded 
